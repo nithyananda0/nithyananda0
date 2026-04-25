@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith2001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rakshit09631777" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit09631777?logo=twitter&style=for-the-badge" alt="rakshit09631777" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nithya" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit09631777?logo=twitter&style=for-the-badge" alt="Nithya" /></a> </p>
 
 - 🌱 I’m currently learning **The MERN Stack mainly the Backend**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rakshit09631777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakshit09631777" height="30" width="40" /></a>
+<a href="https://twitter.com/rakshit09631777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakshith-r-3a98aa187/" target="blank"></a>
 </p>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -27,8 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith2001&show_icons=true&locale=en&layout=compact" alt="rakshith2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshith2001&show_icons=true&locale=en" alt="rakshith2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithya&show_icons=true&locale=en" alt="Nithya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith2001&" alt="rakshith2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith2001&" alt="Nithya" /></p>
 
 ---
