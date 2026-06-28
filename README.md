@@ -4,12 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithyananda&label=Profile%20views&color=0e75b6&style=flat" alt="nithyananda" /> </p>
 
 
-
-- 🌱 I’m currently learning **The MERN Stack mainly the Backend**
-
 - 🌱 Open Source Enthusiast
-
-- 💼 Currently Looking for a Job
 
 - 📫 How to reach me **nithyanandashetty20@gmail.com**
 
