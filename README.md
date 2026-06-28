@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithyananda</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithyananda&label=Profile%20views&color=0e75b6&style=flat" alt="nithyananda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Nithya" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit09631777?logo=twitter&style=for-the-badge" alt="Nithya" /></a> </p>
+
 
 - 🌱 I’m currently learning **The MERN Stack mainly the Backend**
 
